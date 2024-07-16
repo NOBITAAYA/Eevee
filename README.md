@@ -1,5 +1,5 @@
 <h3><img  style="align-item" :"center" src="https://telegra.ph/file/be434dc46537253ee214f.jpg" width="90px" height="80%">
-   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝐍𝐎𝐁𝐈𝐓𝐀+𝐗𝐃+🖤+🥀"></b></h3>
+   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+EVVE+𝐗𝐃+🖤+🥀"></b></h3>
 
 <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/PRADHAN474/count.svg" />
